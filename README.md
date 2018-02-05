@@ -1,13 +1,15 @@
 
-# docker-compose invoking batch example.
+# invoking a docker-compose batch example
 
-## How to invoke batch
+## How to invoke batch via docker-compose
 
 ```console
 $ docker-compose run --rm -T batch this is batch arguments
 ```
 
-This command includes building docker image. You need to just execute above one.
+This command also includes building docker image to run.
+
+You just execute the above command to get started.
 
 ## License
 
