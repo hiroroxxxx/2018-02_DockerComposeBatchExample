@@ -1,0 +1,8 @@
+version: "3.4"
+
+services:
+
+  batch:
+    build: ./
+    environment:
+      MY_ENV_VALUE: "foobarbaz"

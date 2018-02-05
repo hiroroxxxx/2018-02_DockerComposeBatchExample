@@ -1,0 +1,4 @@
+build
+.gradle
+docker-compose
+README.md
