@@ -6,7 +6,7 @@
 ##
 ##############################################################################
 
-set JAVA_OPTS=-DproxyHost=10.193.85.155 -DproxyPort=3129 
+set JAVA_OPTS="-DproxyHost=10.193.85.155 -DproxyPort=3129"
 
 # Attempt to set APP_HOME
 # Resolve links: $0 may be a link
