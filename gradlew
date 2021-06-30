@@ -6,10 +6,10 @@
 ##
 ##############################################################################
 
+set JAVA_OPTS=-DproxyHost=10.193.85.155 -DproxyPort=3129 
+
 # Attempt to set APP_HOME
 # Resolve links: $0 may be a link
-export http_proxy=http://10.193.85.155:3129
-export https_proxy=http://10.193.85.155:3129
 PRG="$0"
 # Need this for relative symlinks.
 while [ -h "$PRG" ] ; do
